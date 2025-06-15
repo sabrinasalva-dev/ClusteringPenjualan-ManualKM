@@ -3,6 +3,11 @@
 Tugas Besar Mata Kuliah Pembelajaran Mesin (Genap 2024-2025)  
 Topik: Clustering Data Penjualan dengan Implementasi Manual K-Means (tanpa library clustering)
 
+## Dataset
+Dataset diambil dari [https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set?select=Wholesale+customers+data.csv]  
+(Sertakan link atau deskripsi singkat jika dataset diunggah mandiri)
+
+
 ## 📌 Deskripsi Proyek
 Proyek ini bertujuan untuk mengelompokkan data penjualan menggunakan algoritma K-Means yang diimplementasikan dari nol (*from scratch*) menggunakan Python.
 
