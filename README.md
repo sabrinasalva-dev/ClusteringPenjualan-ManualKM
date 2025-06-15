@@ -24,6 +24,7 @@ Proyek ini bertujuan untuk mengelompokkan data penjualan menggunakan algoritma K
 [Lihat di YouTube](https://youtube.com/...)
 
 ## 👨‍💻 Anggota Kelompok
-- Nama 1 - NIM
-- Nama 2 - NIM
+- Ikfan Putra Maesru Dwi Pradana (1206230010)
+- Madina Nilasari (1206230057)
+- Sabrina Salva Kalimatin Sava (1206230061)
 
